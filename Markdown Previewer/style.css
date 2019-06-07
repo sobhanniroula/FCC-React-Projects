@@ -1,0 +1,28 @@
+body {
+    background: #009988;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    width: 80%;
+    height: auto;
+    float: left;
+    background: #ccc;
+    margin: 10px 20px 10px 5px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.markdown-text {
+    font-size: 15px;
+    color: white;
+}
+
+#editor {
+    color: #333;
+    height: 300px;
+    width: 95%;
+}
