@@ -4,9 +4,9 @@ This repository contains all those final small projects that I had done in my Re
 
 1. Build a Random Quote Machine: https://codepen.io/sobhann/pen/OYeEWm
 
-2. Build a Markdown Previewer: 
+2. Build a Markdown Previewer: https://codepen.io/sobhann/pen/GabPxR
 
-3. Build a Drum Machine:
+3. Build a Drum Machine: https://codepen.io/sobhann/pen/WBVNLV
 
 4. Build a JavaScript Calculator:
 
