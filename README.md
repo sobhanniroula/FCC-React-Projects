@@ -10,4 +10,4 @@ This repository contains all those final small projects that I had done in my Re
 
 4. Build a JavaScript Calculator: https://codepen.io/sobhann/pen/byXdJM
 
-5. Build a Pomodoro Clock: 
+5. Build a Pomodoro Clock: https://codepen.io/sobhann/pen/rgXJYQ
