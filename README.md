@@ -8,6 +8,6 @@ This repository contains all those final small projects that I had done in my Re
 
 3. Build a Drum Machine: https://codepen.io/sobhann/pen/WBVNLV
 
-4. Build a JavaScript Calculator:
+4. Build a JavaScript Calculator: https://codepen.io/sobhann/pen/byXdJM
 
 5. Build a Pomodoro Clock: 
